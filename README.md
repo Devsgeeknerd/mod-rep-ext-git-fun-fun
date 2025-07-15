@@ -3,11 +3,11 @@
 
 ***Conteúdo do Módulo:***
 
-* [x] [As Principais Plataformas Para Armazenamento de Códigos-fonte.](https://github.com/Devsgeeknerd/cla-as-pri-pla-par-arm-cod-fon-rep-ext-git-fun-bas)
-* [x] [Como Criar Repositório no GitLab.](https://github.com/Devsgeeknerd/cla-com-cri-rep-lab-rep-ext-git-fun-bas)
-* [x] [Criando Repositório no BitBucket.](https://github.com/Devsgeeknerd/cla-cri-rep-bit-rep-ext-git-fun-bas)
-* [x] [Criando Repositório no GitHub.](https://github.com/Devsgeeknerd/cla-cri-rep-hub-rep-ext-git-fun-bas)
-* [x] [Linkando Repositório Local Com o Externo.](https://github.com/Devsgeeknerd/cla-lin-rep-loc-com-ext-rep-ext-git-fun-bas)
+* [x] [As Principais Plataformas Para Armazenamento de Códigos-fonte.](https://github.com/Devsgeeknerd/cla-as-pri-pla-par-arm-cod-fon-rep-ext-git-fun-fun)
+* [x] [Como Criar Repositório no GitLab.](https://github.com/Devsgeeknerd/cla-com-cri-rep-lab-rep-ext-git-fun-fun)
+* [x] [Criando Repositório no BitBucket.](https://github.com/Devsgeeknerd/cla-cri-rep-bit-rep-ext-git-fun-fun)
+* [x] [Criando Repositório no GitHub.](https://github.com/Devsgeeknerd/cla-cri-rep-hub-rep-ext-git-fun-fun)
+* [x] [Linkando Repositório Local Com o Externo.](https://github.com/Devsgeeknerd/cla-lin-rep-loc-com-ext-rep-ext-git-fun-fun)
 
 <!-- Informações -->
 ## &#8505; Informações
